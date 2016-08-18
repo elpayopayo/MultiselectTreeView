@@ -1,5 +1,0 @@
-C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\B3.AsyncWpfTreeViewKit.csprojResolveAssemblyReference.cache
-C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\UserControl\AsyncWpfTreeViewControl.g.cs
-C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\B3.AsyncWpfTreeViewKit_MarkupCompile.cache
-C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\B3.AsyncWpfTreeViewKit_MarkupCompile.lref
