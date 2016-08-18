@@ -3,3 +3,5 @@
 ################################################################################
 
 *.suo
+/AsyncWpfMultiselectTreeView/AsyncWpfTreeViewKit/obj/Debug
+/AsyncTreeView/other resources for extended projects

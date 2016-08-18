@@ -1,0 +1,13 @@
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\AsyncWpfTreeViewKit.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\UserControl\AsyncWpfTreeViewControl.g.cs
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\Resources\BaseTreeViewItemStyles.baml
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\UserControl\AsyncWpfTreeViewControl.baml
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\ObjectLibraries\Debug\AnyCPU\WpfMultiselectTreeViewKit.dll.config
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\ObjectLibraries\Debug\AnyCPU\WpfMultiselectTreeViewKit.dll
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\ObjectLibraries\Debug\AnyCPU\WpfMultiselectTreeViewKit.pdb
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\WpfMultiselectTreeViewKit_MarkupCompile.cache
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\WpfMultiselectTreeViewKit_MarkupCompile.lref
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\WpfMultiselectTreeViewKit.g.resources
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\WpfMultiselectTreeViewKit.dll
+C:\Users\Eduardo Payán\Documents\GitHubVisualStudio\MultiselectTreeView\AsyncWpfMultiselectTreeView\AsyncWpfTreeViewKit\obj\Debug\WpfMultiselectTreeViewKit.pdb
